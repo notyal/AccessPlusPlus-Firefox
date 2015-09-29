@@ -12,3 +12,10 @@ Port of the [Access++ Chrome extension](https://chrome.google.com/webstore/detai
 > This project was started in <a href="http://hackisu.com/">HackISU</a> Spring 2015. The current released version is available <a href="https://chrome.google.com/webstore/detail/access%2B%2B/cdchknkpbdccmalfabhdjjkckajhbdif">here</a>.
 
 Original readme [here](https://github.com/asr1/AccessPlusPlus/blob/master/README.md).
+
+---
+
+## Getting the source
+
+1. `git clone`
+2. `git submodule init && git submodule update`
