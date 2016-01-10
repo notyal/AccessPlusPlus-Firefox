@@ -2,7 +2,7 @@
   "title": "Access++",
   "name": "accessplusplus",
   "id": "{a8d92740-d518-46a0-9013-8c22d256b1ef}",
-  "version": "1.3.3.1",
+  "version": "1.3.6.0",
   "description": "Adds four tools to Iowa State’s Access Plus: Meal counter, see schedule while registering, Rate My Professor, export schedule.",
   "main": "lib/main",
   "author": "asr1",
