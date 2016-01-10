@@ -19,3 +19,7 @@ Original readme [here](https://github.com/asr1/AccessPlusPlus/blob/master/README
 
 1. `git clone`
 2. `git submodule init && git submodule update`
+
+## Building
+1. Install Prerequisites: `npm install jpm -g`
+2. Build with: `jpm xpi`
